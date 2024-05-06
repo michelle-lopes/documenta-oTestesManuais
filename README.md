@@ -1,2 +1,2 @@
-# documenta-oTestesManuais
+# documentacaoTestesManuais
 Criação de Testes Manuais com base na ISO-29119-3
