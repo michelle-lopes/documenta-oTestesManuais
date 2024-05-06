@@ -9,3 +9,12 @@ Este projeto visa demonstrar por meio de documentação a prática do trabalho d
 - Relatório de Incidentes
   
 Base dos testes: https://www.saucedemo.com/
+
+Entre em contato
+
+email: michelle18lopes@gmail.com
+
+linkedin: www.linkedin.com/in/michelle-lopes-qa
+
+
+
